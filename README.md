@@ -3,8 +3,9 @@
 ### This part of the code should receive data from a web scraping team member (Automatically with bash code)... 
 
 ## The main goal of the code:
-    1) Filtering and cleaning ALL the data from different data sources with one unique code from the web scraping of jobs data from different websites.
-    2) Reducing job titles using approaching - whatever the quantity - to 17 job titles only.
+#### Creating a funnel to pass the data within to:
+1) Filter and clean ALL the data from different data sources with one unique code from the web scraping of jobs data from different websites.
+2) Reduce job titles using approaching - whatever the quantity - to 17 job titles only.
 
 # Project goals:
   1) Facilitating finding a suitable track for beginners in the software field -who are about to start college or courses in this field-, based on "Time Series Analysis - Predictive Analysis" to find out which tracks are most available in their area and what are the expected salaries after years.
