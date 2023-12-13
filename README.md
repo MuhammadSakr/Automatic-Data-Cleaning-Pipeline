@@ -5,7 +5,7 @@ https://www.linkedin.com/posts/muhammad-sakr-98220920b_provide-your-job-informat
 ### This part of the code should receive data from a web scraping team member (Automatically with bash code)... 
 
 ## The main goal of the code:
-#### Creating a funnel to pass the data through, to:
+#### Creating a pipeline to pass the data through, to:
 1) Filter and clean ALL the data from different data sources with one unique code from the web scraping of jobs data from different websites.
 2) Reduce job titles using approaching - whatever the quantity - to 17 job titles only.
 
