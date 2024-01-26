@@ -7,7 +7,7 @@ https://www.linkedin.com/posts/muhammad-sakr-98220920b_provide-your-job-informat
 ## The main goal of the code:
 #### Creating a pipeline to pass the data through, to:
 1) Filter and clean ALL the data from different data sources with one unique code from the web scraping of jobs data from different websites.
-2) Reduce job titles using approaching - whatever the quantity - to 17 job titles only.
+2) Reduce job titles using approaching - whatever the quantity - to 18 job titles only.
 
 # Project goals:
   1) Facilitating finding a suitable track for beginners in the software field -who are about to start college or courses in this field-, based on "Time Series Analysis - Predictive Analysis" to find out which tracks are most available in their area and what are the expected salaries after years.
